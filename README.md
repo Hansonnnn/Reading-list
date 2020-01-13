@@ -14,6 +14,8 @@
 
 7. 《Tcp/Ip详解（卷一）》（待看）
 
+8. 《计算机网络（谢希仁）》
+
 ### 统计机器学习，深度学习，数据挖掘
 
 1. 《Data Mining（Concepts and Techniques）》（正在看）
@@ -73,6 +75,33 @@
 
 9. [Large Scale Distributed Deep Networks - NIPS Proceedings](https://link.zhihu.com/?target=https%3A//papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
 
+### Amazon library
+
+1. 《avoiding-fallback-in-distributed-systems》
+
+2. 《avoiding-insurmountable-queue-backlogs》
+
+3. 《caching-challenges-and-strategies》
+
+4. 《challenges-with-distributed-systems》
+
+5. 《ensuring-rollback-safety-during-deployments》
+
+6. 《going-faster-with-continuous-delivery》
+
+7. 《implementing-health-checks》
+
+8. 《instrumenting-distributed-systems-for-operational-visibility》
+
+9. 《leader-election-in-distributed-systems》
+
+10. 《static-stability-using-availability-zones》
+
+11. 《timeouts-retries-and-backoff-with-jitter》
+
+12. 《using-load-shedding-to-avoid-overload》
+
+13. 《workload-isolation-using-shuffle-sharding》
 
 
 ### 其他类
